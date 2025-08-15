@@ -8,3 +8,6 @@ catalogue: {}
 mongodb: {}
 
 mysql: {}
+
+payment:
+  gateway: null
