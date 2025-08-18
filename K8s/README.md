@@ -13,7 +13,7 @@ $ helm install --name robot-shop --namespace robot-shop .
 
 ## Quotas and Scaling
 
-You can apply resource quotas to the namespace where you installed Stan's Robot Shop.
+You can apply resource quotas to the namespace where you installed Stans Robot Shop.
 
 ```shell
 $ kubectl -n robot-shop apply -f resource-quota.yaml
